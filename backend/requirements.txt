@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+aiokafka
+cryptography
+aiofiles
+databases[postgresql]
+sqlalchemy
+asyncpg
+python-multipart

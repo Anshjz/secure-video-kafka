@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+*.egg-info/
+.secret
+secret.key
+
+# Node
+node_modules/
+build/
+dist/
+
+# uploads and local files
+uploads/
+*.mp4
+*.mov
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
